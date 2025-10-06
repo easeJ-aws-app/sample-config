@@ -6,7 +6,7 @@ app:
   # Set the build version ID to deploy for the "Build, deploy, and run" 
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
-  version: "4e5c2c78-9ae2-4352-9dc0-2480539df01c"
+  version: ""
   
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
